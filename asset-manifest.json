@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dark-mode-context-demo/static/css/main.5b00053c.chunk.css",
+    "main.js": "/dark-mode-context-demo/static/js/main.5e95e4bd.chunk.js",
+    "main.js.map": "/dark-mode-context-demo/static/js/main.5e95e4bd.chunk.js.map",
+    "runtime-main.js": "/dark-mode-context-demo/static/js/runtime-main.7285980f.js",
+    "runtime-main.js.map": "/dark-mode-context-demo/static/js/runtime-main.7285980f.js.map",
+    "static/js/2.f0963b42.chunk.js": "/dark-mode-context-demo/static/js/2.f0963b42.chunk.js",
+    "static/js/2.f0963b42.chunk.js.map": "/dark-mode-context-demo/static/js/2.f0963b42.chunk.js.map",
+    "static/js/3.40cb652f.chunk.js": "/dark-mode-context-demo/static/js/3.40cb652f.chunk.js",
+    "static/js/3.40cb652f.chunk.js.map": "/dark-mode-context-demo/static/js/3.40cb652f.chunk.js.map",
+    "index.html": "/dark-mode-context-demo/index.html",
+    "static/css/main.5b00053c.chunk.css.map": "/dark-mode-context-demo/static/css/main.5b00053c.chunk.css.map",
+    "static/js/2.f0963b42.chunk.js.LICENSE.txt": "/dark-mode-context-demo/static/js/2.f0963b42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7285980f.js",
+    "static/js/2.f0963b42.chunk.js",
+    "static/css/main.5b00053c.chunk.css",
+    "static/js/main.5e95e4bd.chunk.js"
+  ]
+}
